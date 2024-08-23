@@ -17,7 +17,7 @@
 <a href="https://twitter.com/sam__ruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam__ruhil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagarruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarruhil" height="30" width="40" /></a>
 <a href="https://fb.com/sagarruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagarruhil" height="30" width="40" /></a>
-<a href="https://instagram.com/samruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samruhil" height="30" width="40" /></a>
+<a href="https://instagram.com/itssamruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samruhil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/samruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samruhil" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sagarruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagarruhil" height="30" width="40" /></a>
 </p>
