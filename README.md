@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar Ruhil (Sam Ruhil)</h1>
+<h1 align="center">Hi 👋, I'm Sagar Sunil (Sam/Sagar Ruhil)</h1>
 <h3 align="center">A passionate Frontend 🧑🏼‍💻 Web Developer, 🎨 Graphic Designer and 📱 UI Designer from India 🇮🇳</h3>
 
 - 🌱 I’m currently learning **MERN, AWS, Docker and Kubernetes**
