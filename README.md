@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sagar Sunil (Sam/Sagar Ruhil)</h1>
-<h3 align="center">A passionate Frontend 🧑🏼‍💻 Web Developer, 🎨 Graphic Designer and 📱 UI Designer from India 🇮🇳</h3>
+<h3 align="center">Working as a Software Developer Intern at Bluestock Fintech. I am a passionate Frontend 🧑🏼‍💻 Web Developer and 📱 UI Designer from India 🇮🇳</h3>
 
 - 🌱 I’m currently learning **MERN, AWS, Docker and Kubernetes**
 
-- 📝 I regularly write articles on [samruhil.blogspot.com](samruhil.blogspot.com)
+- 📝 I sometimes write articles on [samruhil.blogspot.com](samruhil.blogspot.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Python, MySql, Reactjs**
 
@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://codepen.io/sagarruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sagarruhil" height="30" width="40" /></a>
 <a href="https://dev.to/sagarruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sagarruhil" height="30" width="40" /></a>
-<a href="https://twitter.com/sam__ruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam__ruhil" height="30" width="40" /></a>
+<a href="https://twitter.com/Sam__Ruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam__ruhil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagarruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarruhil" height="30" width="40" /></a>
-<a href="https://fb.com/sagarruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagarruhil" height="30" width="40" /></a>
+<a href="https://facebook.com/sagar.ruhil.148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagarruhil" height="30" width="40" /></a>
 <a href="https://instagram.com/itssamruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itssamruhil" height="30" width="40" /></a>
 <a href="https://www.behance.net/sagarruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sagarruhil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/samruhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samruhil" height="30" width="40" /></a>
