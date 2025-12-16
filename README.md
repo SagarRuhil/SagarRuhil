@@ -1,148 +1,92 @@
-# Sagar Ruhil
+<!-- ================= PROFILE README ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%2F+ML+Graduate+Student;Full-Stack+Developer;Data+Analytics+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=220&section=header&text=Sagar%20Ruhil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SagarRuhil&label=Profile%20Views&color=0EA5E9&style=flat" />
-  <img src="https://img.shields.io/github/followers/SagarRuhil?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/SagarRuhil?label=Stars&style=flat" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a **Software Engineer and MCA (AI/ML) student** with practical experience in **full-stack development, backend systems, and data analytics**. I focus on building reliable, scalable, and user-centric applications while strengthening my foundations in **machine learning and system design**. I actively participate in hackathons, internships, and industry programs to stay aligned with real-world engineering practices.
-
----
-
-## 🎯 Career Focus
-
-- Software Engineer / SDE Intern  
-- AI/ML Engineer (Fresher)  
-- Full-Stack Development  
-- Data Analytics & Visualization  
-
----
-
-## 🧩 Core Skills
-
-- Object-Oriented Programming & DSA  
-- RESTful API Design & Integration  
-- Frontend Engineering with React  
-- Backend Development with Spring Boot  
-- Data Analysis, EDA & Dashboards  
-- Version Control & Collaborative Development  
-
----
-
-## 🛠️ Technology Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Web & Backend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### Data & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-### Tools & Design
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
----
-
-## 🚀 Selected Projects
-
-### PathFinder – Career Roadmap Platform
-- Built a role-based career guidance platform for tech aspirants  
-- Designed scalable structure with curated learning resources  
-- Focused on usability, clean UI, and modular architecture  
-
-### Habit Hero – Productivity Web Application
-- Developed a habit-tracking system to improve daily consistency  
-- Implemented responsive design and state-driven UI  
-
-### Campus Connect – Student Engagement Platform
-- Created a centralized solution for campus announcements and communication  
-- Enhanced accessibility and information flow for students  
-
-### Chess Game – Interactive Logic-Based Project
-- Implemented complete chess rules and game logic  
-- Strengthened algorithmic thinking and UI interaction skills  
-
----
-
-## 💼 Professional Experience
-
-**Data Analyst Intern – HOTS**  
-- Analyzed datasets using Python and SQL to generate insights  
-- Built Power BI dashboards to support data-driven decisions  
-
-**Software Developer Intern – Bluestock Fintech**  
-- Improved application performance through optimized logic and clean code  
-- Collaborated across teams for feature development and testing  
-
-**Web Developer Intern – Future Intern**  
-- Designed and implemented responsive web interfaces  
-- Developed backend logic and maintained production features  
-
----
-
-## 🏆 Hackathons & Industry Programs
-
-**Hackathons**  
-- HACK-HAZARDS  
-- Hack2Skill Vision  
-- Build With India  
-- GSSoC  
-- UnStop UI/UX Hackathon  
-
-**Programs**  
-- Google Cloud Skill Boost  
-- Microsoft PowerUp  
-- Oracle Raise Your Game  
-- McKinsey Forward  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarRuhil&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarRuhil&theme=tokyonight" height="165" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%2F+ML+Graduate+Student;Full-Stack+Developer;Data+Analytics+Enthusiast;Open+to+Internships+and+Full-Time+Roles" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarRuhil&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://komarev.com/ghpvc/?username=SagarRuhil&label=Profile%20Views&style=for-the-badge&color=38BDF8"/>
+  <img src="https://img.shields.io/github/followers/SagarRuhil?style=for-the-badge&color=0EA5E9"/>
+  <img src="https://img.shields.io/github/stars/SagarRuhil?style=for-the-badge&color=0284C7"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-YES-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCA-AI%2FML-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 👨‍💻 Sagar Ruhil
 
-- LinkedIn: https://linkedin.com/in/SagarRuhil  
-- GitHub: https://github.com/SagarRuhil  
-- Email: sagarruhil999@gmail.com  
+```txt
+Software Engineer | AI/ML Graduate Student | Full-Stack Developer
+I am a Software Engineer and MCA (AI/ML) student with hands-on experience in
+full-stack development, backend systems, and data analytics.
+I focus on clean architecture, scalable systems, and real-world problem solving.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/216656986-9f7d8cbf-0bb7-44f6-bd61-8d5c5b6fdd09.gif" width="100%" />
+🎯 Career Focus
+Software Engineer / SDE Intern
 
-⭐ *Always open to collaboration, learning, and impactful engineering work.*
+AI / ML Engineer (Fresher)
+
+Full-Stack Development
+
+Data Analytics & Visualization
+
+🧠 Core Skills
+Data Structures & Algorithms
+
+REST API Design & Integration
+
+React Frontend Engineering
+
+Spring Boot Backend Development
+
+Data Analysis & Dashboards
+
+Git & Team Collaboration
+
+<img src="https://user-images.githubusercontent.com/74038190/216656967-62b1e2c1-5e18-4a3c-9f0a-fb2d8b8b6d7a.gif" width="100%" />
+🛠️ Technology Stack
+Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=dark"/> </p>
+Web & Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,spring&theme=dark"/> </p>
+Data & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark"/> <br/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </p>
+🚀 Projects
+PathFinder — Career Roadmap Platform
+Role-based career guidance platform
+
+Curated learning paths and scalable architecture
+
+Habit Hero — Productivity Web App
+Habit tracking with responsive UI
+
+Campus Connect — Student Platform
+Centralized campus communication system
+
+Chess Game — Logic-Based Application
+Complete chess rules and logic implementation
+
+<img src="https://user-images.githubusercontent.com/74038190/216656956-704fd4be-90fa-4f6d-9f7b-66a18c9b33c2.gif" width="100%" />
+💼 Experience
+Data Analyst Intern – HOTS
+Software Developer Intern – Bluestock Fintech
+Web Developer Intern – Future Intern
+
+🏆 Hackathons & Programs
+HACK-HAZARDS · Hack2Skill Vision · Build With India · GSSoC · UnStop UI/UX Hackathon
+Google Cloud Skill Boost · Microsoft PowerUp · Oracle Raise Your Game · McKinsey Forward
+
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SagarRuhil&show_icons=true&theme=tokyonight&rank_icon=github" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarRuhil&theme=tokyonight" height="170"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarRuhil&theme=tokyo-night"/> </p>
+🌐 Connect
+<p align="center"> <a href="https://linkedin.com/in/SagarRuhil"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:sagarruhil999@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/SagarRuhil"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> </p>
+<p align="center"> <strong>⭐ Open to internships, collaborations, and impactful engineering work.</strong> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer"/> </p> ```
