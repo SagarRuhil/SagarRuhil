@@ -1,73 +1,78 @@
-<!-- ================= PROFILE README ================= -->
+<!-- ===================== SAGAR RUHIL | GITHUB PROFILE README ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=220&section=header&text=Sagar%20Ruhil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Sagar%20Ruhil&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20|%20AI%2FML%20Graduate%20Student&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%2F+ML+Graduate+Student;Full-Stack+Developer;Data+Analytics+Enthusiast;Open+to+Internships+and+Full-Time+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Building+Scalable+Software+Systems;AI+%2F+ML+Graduate+%7C+MCA;Full-Stack+Developer;Data-Driven+Problem+Solver;Open+to+Internships+%26+Full-Time+Roles" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SagarRuhil&label=Profile%20Views&style=for-the-badge&color=38BDF8"/>
-  <img src="https://img.shields.io/github/followers/SagarRuhil?style=for-the-badge&color=0EA5E9"/>
-  <img src="https://img.shields.io/github/stars/SagarRuhil?style=for-the-badge&color=0284C7"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-YES-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCA-AI%2FML-blueviolet?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=SagarRuhil&style=for-the-badge&color=0EA5E9"/>
+  <img src="https://img.shields.io/github/followers/SagarRuhil?style=for-the-badge&color=6366F1"/>
+  <img src="https://img.shields.io/github/stars/SagarRuhil?style=for-the-badge&color=F59E0B"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-YES-22C55E?style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 Sagar Ruhil
+## ✨ About Me
 
-```txt
-Software Engineer | AI/ML Graduate Student | Full-Stack Developer
+```yaml
+Name: Sagar Ruhil
+Role: Software Engineer | AI/ML Graduate Student
+Education: MCA (Artificial Intelligence & Machine Learning)
+Focus Areas:
+  - Full-Stack Engineering
+  - Backend & API Development
+  - AI / ML Foundations
+  - Data Analytics & Visualization
 ```
 
-I am a **Software Engineer and MCA (AI/ML) student** with strong hands-on experience in  
-**full-stack development, backend systems, and data analytics**.  
-I focus on **clean architecture, scalable applications, and data-driven solutions** while continuously improving my skills in **machine learning and system design**.
+I am a **results-driven Software Engineer** with hands-on experience in  
+**full-stack development, backend engineering, and data analytics**.  
+
+I enjoy **designing scalable systems**, writing **clean and maintainable code**,  
+and applying **data + AI techniques** to solve real-world problems.
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/216656986-9f7d8cbf-0bb7-44f6-bd61-8d5c5b6fdd09.gif" width="100%" />
 
-## 🎯 Career Focus
-- Software Engineer / SDE Intern  
-- AI / ML Engineer (Fresher)  
-- Full-Stack Development  
-- Data Analytics & Visualization  
+## 🎯 What I’m Focused On
+- Building **production-ready web applications**
+- Strengthening **DSA & system design**
+- Applying **AI/ML concepts to real datasets**
+- Contributing to **open-source and collaborative projects**
 
 ---
 
-## 🧠 Core Skills
-- Data Structures & Algorithms  
-- REST API Design & Integration  
-- React Frontend Engineering  
-- Spring Boot Backend Development  
-- Data Analysis, EDA & Dashboards  
-- Git & Team Collaboration  
+## 🧠 Engineering Strengths
+- Data Structures, Algorithms & Problem Solving  
+- RESTful API Design & Backend Architecture  
+- React-based Frontend Engineering  
+- Spring Boot & Server-side Development  
+- Data Cleaning, EDA & Dashboarding  
+- Agile Collaboration & Version Control  
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/216656967-62b1e2c1-5e18-4a3c-9f0a-fb2d8b8b6d7a.gif" width="100%" />
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Arsenal
 
-### Languages
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=dark"/>
 </p>
 
-### Web & Backend
+### 🌐 Web & Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,spring&theme=dark"/>
 </p>
 
-### Data & Tools
+### 📊 Data, Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark"/>
   <br/>
@@ -78,27 +83,37 @@ I focus on **clean architecture, scalable applications, and data-driven solution
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 PathFinder — Career Roadmap Platform
-- Designed and developed a role-based career guidance platform to help students choose and plan technology careers.
-- Implemented structured learning roadmaps with curated resources and role-specific skill paths.
-- Focused on modular architecture, clean UI, and scalable design for future expansion.
+### 🌟 PathFinder — Career Roadmap Platform
+**Tech:** React, Backend APIs, Modular Architecture  
+- Built a role-based career guidance platform for students and beginners.
+- Designed structured learning roadmaps with curated tech resources.
+- Focused on scalability, maintainability, and clean UI/UX.
 
-### 🔹 Habit Hero — Productivity Web Application
-- Built a habit-tracking web application to help users develop and maintain positive daily routines.
-- Implemented responsive UI, state management, and user progress visualization.
-- Improved user engagement through clean UX and performance-optimized components.
+---
 
-### 🔹 Campus Connect — Student Engagement Platform
-- Developed a centralized platform for campus announcements, events, and student communication.
-- Improved accessibility and information flow by consolidating multiple communication channels.
-- Designed the system to support scalability and multi-role access.
+### 🌟 Habit Hero — Productivity & Habit Tracker
+**Tech:** React, JavaScript, UI Optimization  
+- Developed a habit-tracking application to improve user consistency.
+- Implemented responsive design and progress visualization.
+- Improved performance and user engagement through optimized components.
 
-### 🔹 Chess Game — Logic-Based Web Application
-- Implemented complete chess rules including move validation and game state management.
-- Built an interactive UI to provide a smooth and intuitive gameplay experience.
-- Strengthened algorithmic thinking and frontend–logic integration.
+---
+
+### 🌟 Campus Connect — Student Engagement System
+**Tech:** Full-Stack Web Development  
+- Centralized campus announcements, events, and communications.
+- Reduced information fragmentation across platforms.
+- Designed multi-role access for students and administrators.
+
+---
+
+### 🌟 Chess Game — Logic-Driven Application
+**Tech:** JavaScript, Algorithms  
+- Implemented full chess logic including move validation.
+- Strengthened algorithmic thinking and state management.
+- Delivered smooth and interactive gameplay experience.
 
 ---
 
@@ -106,34 +121,34 @@ I focus on **clean architecture, scalable applications, and data-driven solution
 
 ## 💼 Professional Experience
 
-### **Data Analyst Intern – HOTS**
-- Conducted data cleaning, transformation, and exploratory data analysis using Python and SQL.
-- Developed interactive dashboards in Power BI to support marketing and business decisions.
-- Delivered actionable insights by identifying trends and performance metrics.
+### 🧩 Data Analyst Intern — HOTS
+- Cleaned and transformed large datasets using Python and SQL.
+- Built interactive Power BI dashboards for business insights.
+- Analyzed customer behavior and performance metrics.
 
-### **Software Developer Intern – Bluestock Fintech**
-- Optimized application performance using efficient algorithms and clean coding practices.
-- Collaborated with cross-functional teams to gather requirements and implement backend features.
-- Developed unit tests and participated in quality assurance to ensure reliability.
+### 🧩 Software Developer Intern — Bluestock Fintech
+- Improved application performance using optimized algorithms.
+- Developed backend features and REST APIs.
+- Wrote unit tests and assisted in QA processes.
 
-### **Web Developer Intern – Future Intern**
-- Designed and implemented responsive user interfaces using HTML, CSS, and JavaScript.
-- Developed backend logic for data handling and server-side interactions.
-- Maintained and enhanced production websites with new features and updates.
+### 🧩 Web Developer Intern — Future Intern
+- Built responsive UI components using HTML, CSS, and JavaScript.
+- Implemented backend logic for data handling.
+- Maintained and enhanced live web applications.
 
 ---
 
-## 🏆 Hackathons & Programs
+## 🏆 Hackathons & Growth Programs
 
-**Hackathons**  
+**Hackathons:**  
 HACK-HAZARDS · Hack2Skill Vision · Build With India · GSSoC · UnStop UI/UX Hackathon  
 
-**Programs**  
+**Programs:**  
 Google Cloud Skill Boost · Microsoft PowerUp · Oracle Raise Your Game · McKinsey Forward  
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SagarRuhil&show_icons=true&theme=tokyonight&rank_icon=github" height="170"/>
@@ -146,7 +161,7 @@ Google Cloud Skill Boost · Microsoft PowerUp · Oracle Raise Your Game · McKin
 
 ---
 
-## 🌐 Connect
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/SagarRuhil">
@@ -163,9 +178,9 @@ Google Cloud Skill Boost · Microsoft PowerUp · Oracle Raise Your Game · McKin
 ---
 
 <p align="center">
-  <strong>⭐ Open to internships, collaborations, and impactful engineering work.</strong>
+  <strong>⭐ Always learning. Always building. Open to impactful opportunities.</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
