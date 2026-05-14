@@ -304,7 +304,7 @@ class SagarSunil:
 
    * `yourusername`
    * `yourlinkedin`
-   * `youremail@gmail.com`
+   * `youremail@gmail.com`.
    * Spotify ID
    * Project links
 5. Push to GitHub.
